@@ -1,4 +1,4 @@
 # SQL_Practice
-This repository contains the following practice projects:
+This repository contains the following projects:
 
 1- Instagram Clone Database
